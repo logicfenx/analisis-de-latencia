@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/analisis-de-latencia",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a analisis-de-latencia",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/analisis-de-latencia.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/analisis-de-latencia-datos-en-cuotas/"
+    },
+    "homepage": "https://bitcu.co/analisis-de-latencia-datos-en-cuotas/"
+}
